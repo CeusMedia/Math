@@ -1,0 +1,14 @@
+{
+    "name": "ceus-media/math",
+    "description": "Collection of mathematical implementations.",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Christian Würker",
+            "email": "christian.wuerker@ceusmedia.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
